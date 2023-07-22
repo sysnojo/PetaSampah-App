@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "697345726797",
+    "project_id": "petasampah-gh2023",
+    "storage_bucket": "petasampah-gh2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697345726797:android:07ec75f12a7842fbc2ff04",
+        "android_client_info": {
+          "package_name": "com.example.petasampah_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697345726797-ad2j2fl3bvtue4nq8tev53uo8pbts36r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoflsRIUoQCBfy3P3n9Y0hO6sZG3fqOeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697345726797-ad2j2fl3bvtue4nq8tev53uo8pbts36r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697345726797-mnug29jfoc1rhcmr7r2srpun5ns9v083.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.petasampah1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

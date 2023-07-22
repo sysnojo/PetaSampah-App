@@ -1,0 +1,44 @@
+name: petasampah_1
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.7.1
+  flutter:
+    sdk: flutter
+  page_transition: ^2.0.0
+  image_picker: ^0.8.4+4
+  flutter_map: ^4.0.0
+  google_maps_flutter: ^2.0.8
+  custom_info_window: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo/
+    - assets/carousel/
+    - assets/homepage/
+    - assets/login-sign up/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+    - family: Poppins Light
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+    - family: Poppins Medium
+      fonts:
+        - asset: assets/fonts/Poppins-Medium.ttf
+    - family: Gotham
+      fonts:
+        - asset: assets/fonts/iCiel Medium.ttf
